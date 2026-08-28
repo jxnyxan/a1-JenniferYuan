@@ -1,6 +1,8 @@
 This project is my first assignment for CS4241. It introduces basic HTML,
 CSS, JavaScript, Git, GitHub, and deployment using Render.
 
+Live Website: https://a1-jenniferyuan.onrender.com/
+
 ## Technical Achievements
 
 Styled page with CSS: Added rules for the p, li, etc.
